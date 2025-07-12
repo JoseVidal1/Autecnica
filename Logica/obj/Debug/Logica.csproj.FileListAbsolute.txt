@@ -1,0 +1,12 @@
+C:\Users\USUARIO\Desktop\Logica\bin\Debug\Logica.dll
+C:\Users\USUARIO\Desktop\Logica\bin\Debug\Logica.pdb
+C:\Users\USUARIO\Desktop\Logica\bin\Debug\Datos.dll
+C:\Users\USUARIO\Desktop\Logica\bin\Debug\EntityFramework.dll
+C:\Users\USUARIO\Desktop\Logica\bin\Debug\Datos.pdb
+C:\Users\USUARIO\Desktop\Logica\bin\Debug\Datos.dll.config
+C:\Users\USUARIO\Desktop\Logica\bin\Debug\EntityFramework.xml
+C:\Users\USUARIO\Desktop\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Desktop\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\Logica\obj\Debug\Logica.csproj.Up2Date
+C:\Users\USUARIO\Desktop\Logica\obj\Debug\Logica.dll
+C:\Users\USUARIO\Desktop\Logica\obj\Debug\Logica.pdb
